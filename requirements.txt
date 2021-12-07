@@ -1,0 +1,5 @@
+Scrapy~=2.5.1
+brotli~=1.0.9
+motor~=2.5.1
+httpx~=0.21.1
+tenacity~=8.0.1
